@@ -3668,7 +3668,24 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "TechnicalSEO.info",
+      "thumb": "technicalseo/thumb.png",
+      "desc": "TechnicalSEO.info is a set of technical SEO topics with examples and tools, to help you make your website technically search engine friendly.",
+      "url": "http://www.technicalseo.info",
+      "info": "http://www.technicalseo.info/what-is-seo/",
+      "submitter": "TechnicalSEO",
+      "submissionDate": "2015-05-11",
+      "tags": [
+	"Production",
+	"Productivity",
+	"SEO", "search engine optimization", "technical seo", "HTML5 History API", "seo tools",
+	"jQuery",
+	"Bootstrap",
+	"Mobile",
+	"Responsive"
+      ]
     }
-
   ]
 }
